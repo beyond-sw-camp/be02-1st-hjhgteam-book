@@ -1,9 +1,9 @@
-<h1 align="center"> 👍</h1>
+<h1 align=center> BOOK👍</h1>
 
 
-<center>
-    <img src="./img/pic1.png"  style="zoom:76%;" align="center"/>
-</center>
+<div align="center">
+    <img src=""   />
+</div>
 
 
 
@@ -44,18 +44,18 @@
 
 ### 1. 사용자 회원 가입 및 로그인 기능(토큰 인증 방식)
 
-<center>
-    <img src="./img/pic2.png" />
-</center>
+<div align="center">
+    <img src=""  />
+</div>
 JWT를 이용한 토큰 인증 방식
 
 <br>
 
 ### 2. 게시판 기능
 
-<center>
-    <img src="./img/pic1.png" />
-</center>
+<div align="center">
+    <img src=""  />
+</div>
 어떤 어떤 어떤 걸 작성하는 게시판 기능
 
 <br>
@@ -63,9 +63,9 @@ JWT를 이용한 토큰 인증 방식
 
 ## System Architecture
 
-<center>
-    <img src="./img/pic2.png" />
-</center>
+<div align="center">
+    <img src=""  />
+</div>
 대용량 트래픽을 고려한 서버 이중화
 
 <br>
