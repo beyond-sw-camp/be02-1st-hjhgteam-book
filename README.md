@@ -1,8 +1,8 @@
-<h1 align=center> BOOK👍</h1>
+<h1 align=center> BOOKSPEDIA👍</h1>
 
 
 <div align="center">
-    <img src="coverimage.png" width="60%"/> 
+    <img src="image/coverimage.png" width="60%"/> 
 </div>
 
 
@@ -10,9 +10,6 @@
 
 > [플레이 데이터] 한화시스템 BEYOND SW캠프 / 팀명 : hjhg..
 
-
-🎬[Demo 시연영상](https://www.youtube.com/watch?v=dhMrKTwNI8U&lc=UgzCJR3WxkvsckRyyO94AaABAg&ab_channel=%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B4%EC%84%9C%EB%B0%B0%EC%9A%B0%EB%8A%94IT)   
-📃[프로젝트 회고록](블로그주소) 
 
 <br>
 
@@ -25,8 +22,8 @@
 ## ✨ 프로젝트 배경
 
 <div align="center">
-    <img src="image1.png" width="60%"/>  
-    <img src="image2.png" width="60%"/>
+    <img src="image/image1.png" width="60%"/>  
+    <img src="image/image2.png" width="60%"/>
 </div>
 
 출처 : [닐슨코리아클릭](https://www.koreanclick.com/insights/newsletter_view.html?code=topic&id=586&page=1&utm_source=board&utm_medium=board&utm_campaign=topic&utm_content=20200826) |
@@ -48,7 +45,7 @@
 
 ### ERD
 <div align="center">
-    <img src="Relation_Schema_Final.png"  />
+    <img src="image/Relation_Schema_Final.png"  />
 </div>
 
 ### Cluster 서버 구성
@@ -56,7 +53,7 @@
 - 연결된 서버 다운시 router가 다른 서버에  연결시켜줌
 
 <div align="center">
-    <img src="cluster.gif"  />
+    <img src="image/cluster.gif"  />
 </div>
 
 
